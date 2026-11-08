@@ -1,0 +1,7 @@
+{
+  "name": "tabline",
+  "version": "0.1.0",
+  "description": "OpenCode-style session tabs for Claude Code: a sidebar with one tab per session, switching between them in tmux",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

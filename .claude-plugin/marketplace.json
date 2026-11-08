@@ -1,0 +1,7 @@
+{
+  "name": "tabline",
+  "owner": { "name": "local" },
+  "plugins": [
+    { "name": "tabline", "source": "./", "description": "Session tabs in tmux" }
+  ]
+}
